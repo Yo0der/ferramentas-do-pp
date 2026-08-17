@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+  
+    <link rel="icon" type="image/x-ico" href="pp.ico">
+
+  <title>Gerador de Tesouro</title>
+
+  <style>
+  .botao-tesouro {
+    background-color: rgba(217, 27, 27, 0.819);
+    color:#000000;
+    border-radius:5px;
+  }
+  </style>
+  <style>
+  .pergaminho{
+    background:
+      radial-gradient(circle at top, rgba(255,255,255,0.4), transparent),
+      #f1e2b8;
+
+    border: 4px solid #b89b5e;
+    border-radius: 10px;
+
+    padding: 30px;
+    max-width: 520px;
+    margin: auto;
+
+    font-family: "Georgia", serif;
+    color: #3a2c15;
+
+    box-shadow:
+      inset 0 0 30px rgba(0,0,0,0.2),
+      0 10px 25px rgba(0,0,0,0.35);
+}
+  </style>
+
+  <style> 
+    .bg-fundo{
+      background-image: url('10.jpg');
+      background-size: cover;
+      background-position: center;
+      min-height: 100vh;
+    }
+  </style>
+
+</head>
+
+<body class="bg-light">
+
+<div class="bg-fundo d-flex align-items-center justify-content-center">
+    <div class="col-md-6">
+
+        <div class="pergaminho">
+
+          <h3 class="card-title text-center mb-4">
+            Espolhos T20
+          </h3>
+
+          <!-- ND -->
+          <div class="mb-3">
+            <label class="form-label">ND</label>
+            <select id="nd" class="form-select">
+              <option value="1/4">1/4</option>
+              <option value="1/2">1/2</option>
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+              <option value="11">11</option>
+              <option value="12">12</option>
+              <option value="13">13</option>
+              <option value="14">14</option>
+              <option value="15">15</option>
+              <option value="16">16</option>
+              <option value="17">17</option>
+              <option value="18">18</option>
+              <option value="19">19</option>
+              <option value="20">20</option>
+            </select>
+          </div>
+
+          <!-- Roll -->
+          <div class="mb-3">
+            <label class="form-label">Valor Rolado</label>
+            <input type="text" id="roll" inputmode="numeric" pattern="[0-9\s]" autocomplete="cc-number" class="form-control" placeholder="1-100">
+          </div>
+
+          <!-- Tipo -->
+          <div class="mb-3">
+            <label class="form-label">Tipo</label>
+            <select id="tipo" class="form-select">
+              <option value="dinheiro">Dinheiro</option>
+              <option value="itens">Itens</option>
+            </select>
+          </div>
+
+          <!-- Botão -->
+          <div class="d-grid">
+            <button class="botao-tesouro p-3" onclick="gerarTesouro()">
+              Saquear!
+            </button>
+          </div>
+
+          <!-- Resultado -->
+          <div class="mt-4">
+            <h5>Resultado</h5>
+            <div id="resultado" class="alert alert-secondary">
+              Nenhum resultado ainda
+            </div>
+          </div>
+
+        </div>
+
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+<script src="scriptTesouro.js"></script>
+
+</body>
+</html>

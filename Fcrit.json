@@ -1,0 +1,402 @@
+[
+  {
+    "d": 1,
+    "efeito": "Uma intensa atividade cerebral extraplanar chega até você, inundando-o com conhecimento muito avançado para os padrões artonianos. Você fica atordoado por 1d6 rodadas, mas após isso recebe +1 em Inteligência, Sabedoria ou Carisma (escolhido aleatoriamente; uma vez por personagem)."
+  },
+  {
+    "d": 2,
+    "efeito": "A alça do seu escudo se desprende. Você pode gastar uma ação de movimento para soltar o escudo e não sofrer penalidades, ou lutar dessa forma e sofrer -2 em testes de ataque. Consertar a alça leva 1 minuto."
+  },
+  {
+    "d": 3,
+    "efeito": "Você nota que está muito fora de forma e lembra que passou a última semana enfurnado na taverna, comendo e bebendo demais. Você fica exausto até o fim do combate."
+  },
+  {
+    "d": 4,
+    "efeito": "Você é atingido por uma onda súbita de azar e incompetência generalizada. Role duas vezes nesta tabela."
+  },
+  {
+    "d": 5,
+    "efeito": "Em um movimento louco que irá entrar para os anais dos manuais de combate, você embainha sua arma sem querer."
+  },
+  {
+    "d": 6,
+    "efeito": "Você tropeça em uma tartaruga invisível imaginária morta e cai de cara no chão. Além de ficar caído, você sofre -2 em testes baseados em Carisma por um dia, pelo rosto amassado."
+  },
+  {
+    "d": 7,
+    "efeito": "Cheiro ruim. Quem foi? Não importa. Você perde 1d4 PM e fica fraco por 1d4 rodadas."
+  },
+  {
+    "d": 8,
+    "efeito": "Ataque de riso! Você acha muita graça de algo e, enquanto ri sem controle por 1d4 rodadas, fica lento e sofre -2 em testes de ataque. Aposto que na mesa de jogo o único que não está rindo é você!"
+  },
+  {
+    "d": 9,
+    "efeito": "Cãibra na perna: você fica lento e sofre -5 em Atletismo até o fim da cena."
+  },
+  {
+    "d": 10,
+    "efeito": "Uma velha ferida se abre. Você perde 5 PV e fica abalado por 1d4 rodadas."
+  },
+  {
+    "d": 11,
+    "efeito": "Casca de banana: um clássico! Você cai de costas no chão e perde 1d6 PV."
+  },
+  {
+    "d": 12,
+    "efeito": "Ops! Você pisa em um inseto grande e nojento. Perca 1 rodada limpando a gosma da bota ou sofra -1 em testes de ataque e de resistência até fazer isso."
+  },
+  {
+    "d": 13,
+    "efeito": "Presságio de morte... A sua! O próximo ataque que você sofrer será um acerto crítico, ou a próxima habilidade que lhe causar dano causará o dobro de dano."
+  },
+  {
+    "d": 14,
+    "efeito": "Uma onda de energia negativa atinge o campo de batalha, fazendo com que um inimigo que já havia sido derrotado se erga como um zumbi! O inimigo tem as mesmas estatísticas, mas é um morto-vivo e tem Fraqueza Zumbi (Defesa igual à do inimigo +10; veja Tormenta20, p. 297)."
+  },
+  {
+    "d": 15,
+    "efeito": "Uma área de Tormenta aparece debaixo dos seus pés! Você perde 2d12 pontos de vida (Ref CD 25 reduz à metade), mas recebe um poder da Tormenta escolhido pelo mestre até o fim da cena."
+  },
+  {
+    "d": 16,
+    "efeito": "Você sente uma fisgada e fica vulnerável por 1d4 rodadas."
+  },
+  {
+    "d": 17,
+    "efeito": "Fenômeno mágico! O céu fica rosa, deuses passam voando entre as nuvens ou chovem sapos. Todos no combate ficam olhando, e ficam pasmos por 1 rodada. Após a pausa, todos rolam iniciativa novamente."
+  },
+  {
+    "d": 18,
+    "efeito": "Cãibra no pescoço: -5 em Percepção e Reflexos por 1d4 rodadas."
+  },
+  {
+    "d": 19,
+    "efeito": "Fenômeno climático imprevisível: um relâmpago atinge seu braço erguido no meio do golpe. Você sofre 6d8 pontos de dano de eletricidade."
+  },
+  {
+    "d": 20,
+    "efeito": "Descoordenação! Você derruba um item empunhado aleatório."
+  },
+  {
+    "d": 21,
+    "efeito": "Você abre sua guarda! Um oponente adjacente à escolha do mestre pode realizar um ataque imediato contra você."
+  },
+  {
+    "d": 22,
+    "efeito": "Fome repentina: você tem 2 rodadas para comer uma ração de viagem ou fica fatigado."
+  },
+  {
+    "d": 23,
+    "efeito": "Visão profana: você vê uma aparição de um deus inimigo da sua divindade padroeira. Você fica desprevenido nessa rodada, e na próxima rodada sofre -5 em todos os testes."
+  },
+  {
+    "d": 24,
+    "efeito": "Sua arma se desgasta com o golpe, sendo destruída, a menos que seja mágica."
+  },
+  {
+    "d": 25,
+    "efeito": "Optando por garantir pelo menos um ataque bem-sucedido, na próxima rodada você deve usar o seu melhor ataque contra o oponente mais fraco."
+  },
+  {
+    "d": 26,
+    "efeito": "Você tenta vencer o combate “no grito”. Na próxima rodada, deve fazer um teste de Intimidação para assustar um oponente, ou perde sua rodada."
+  },
+  {
+    "d": 27,
+    "efeito": "Tomado por medo, indecisão ou outro sentimento qualquer, você trava! Na próxima rodada, você fica pasmo."
+  },
+  {
+    "d": 28,
+    "efeito": "Ato anti-heroico: você faz algo indigno de um herói, como acovardar-se frente a um ataque, usar um inocente como escudo ou lutar sujo. Você perde 1d4+1 PM (além das demais consequências de seu ato inglório)."
+  },
+  {
+    "d": 29,
+    "efeito": "Sua pistola explode na sua mão e o tiro sai pela culatra! Você sofre 3d6 pontos de dano de fogo e sua arma é destruída."
+  },
+  {
+    "d": 30,
+    "efeito": "Sequência de desastres: até o fim da cena, seu próximo acerto crítico será substituído por uma falha crítica."
+  },
+  {
+    "d": 31,
+    "efeito": "Escorregão! Nada grave, a menos que você esteja na beira de um precipício. Nesse caso, faça um teste de Reflexos (CD 20). Se falhar, agora você está em queda livre!"
+  },
+  {
+    "d": 32,
+    "efeito": "Você se cansa de ser chamado de “fracolino das magias” e vai mostrar que pode vencer uma luta com seus punhos. Nas próximas 2 rodadas, você não pode lançar magias."
+  },
+  {
+    "d": 33,
+    "efeito": "Seu ataque rebate no oponente, atingindo você mesmo. Sofra metade do dano que causaria caso tivesse acertado."
+  },
+  {
+    "d": 34,
+    "efeito": "Um rato enorme morde sua perna e, após 1 dia, você é infectado com varíola (Tormenta20, p. 318)."
+  },
+  {
+    "d": 35,
+    "efeito": "Calafrio: um espírito ou alma penada deixa-o muito nervoso! Você fica apavorado por 1 rodada."
+  },
+  {
+    "d": 36,
+    "efeito": "Dor de cabeça súbita: você fica alquebrado até o fim da cena."
+  },
+  {
+    "d": 37,
+    "efeito": "Má decisão: quem nunca tomou? O mestre escolhe o alvo do seu próximo ataque (não pode ser um aliado)."
+  },
+  {
+    "d": 38,
+    "efeito": "Enjoo súbito! Tanto sangue revira seu estômago. Você fica enjoado por 1d4 rodadas."
+  },
+  {
+    "d": 39,
+    "efeito": "Você nota algo muito interessante do outro lado do campo de batalha. Na próxima rodada, você deve usar uma ação completa para se movimentar até lá."
+  },
+  {
+    "d": 40,
+    "efeito": "Você faz uma bobagem e mostra que não é tão poderoso. Seus oponentes ficam motivados, recebendo +2 nos testes de ataque contra você até o fim da cena."
+  },
+  {
+    "d": 41,
+    "efeito": "Problema na mochila. Um item que você esteja carregando se quebra. Se for uma poção ou item alquímico, você sofre o efeito dele (que pode ser bom, se for um item de cura, ou ruim, se for um item de dano)."
+  },
+  {
+    "d": 42,
+    "efeito": "Mil maldições! Uma maldição itinerante chega até você. Você sofre -5 em todos os testes por 2 rodadas. Depois disso, o aliado mais próximo de você sofre esta mesma maldição por 2 rodadas, e assim sucessivamente. A maldição não pode afetar duas vezes a mesma pessoa no mesmo dia."
+  },
+  {
+    "d": 43,
+    "efeito": "Seu elmo gira e tapa sua visão! Você fica cego até gastar uma ação padrão para ajustá-lo."
+  },
+  {
+    "d": 44,
+    "efeito": "Um cisco entra no seu olho! Você fica cego por 1d4 rodadas."
+  },
+  {
+    "d": 45,
+    "efeito": "Um vento frio sopra em suas costas... Um fantasma? Uma maldição? Ou apenas o inverno? Não importa, você fica abalado por 1d4 rodadas."
+  },
+  {
+    "d": 46,
+    "efeito": "Você decide tentar uma técnica de defesa inovadora, que acaba de inventar. Infelizmente, ela não é muito eficaz. Você fica vulnerável por 1d4 rodadas."
+  },
+  {
+    "d": 47,
+    "efeito": "Subitamente, você nota que está fora de forma e que todas aquelas noites na taverna estão cobrando seu preço. Você fica fatigado até o fim da cena."
+  },
+  {
+    "d": 48,
+    "efeito": "Você tropeça e desequilibra-se. Você fica caído e vulnerável até se levantar."
+  },
+  {
+    "d": 49,
+    "efeito": "Sua aljava ou cartucheira cai no chão e sua munição se espalha. Sempre que quiser recarregar sua arma, você deve gastar uma ação de movimento para recolher a munição. Recolher tudo de uma só vez é uma ação completa."
+  },
+  {
+    "d": 50,
+    "efeito": "Uma aranha pica sua perna e, após 1 dia, você contrai a doença tremores (Tormenta20, p. 318)."
+  },
+  {
+    "d": 51,
+    "efeito": "Seu cinto se abre e suas calças caem! Você fica lento e vulnerável até gastar uma ação padrão para se vestir."
+  },
+  {
+    "d": 52,
+    "efeito": "Que combate tedioso! Você para de prestar atenção a seus oponentes e começa a examinar seus arredores. Você fica desprevenido por 1d4 rodadas, mas pode fazer um teste de Percepção (CD 20) como uma ação livre. Se você passar, o mestre pode lhe fornecer alguma informação."
+  },
+  {
+    "d": 53,
+    "efeito": "Sorvedouro de magia: devido a um fenômeno arcano imprevisível, você perde 1d10 PM."
+  },
+  {
+    "d": 54,
+    "efeito": "Derrame: uma súbita pontada seguida de dor de cabeça… Tudo fica preto. Será o fim? Faça um teste de Sabedoria (CD 10). Se passar, você fica alquebrado. Se falhar, você morre."
+  },
+  {
+    "d": 55,
+    "efeito": "Um trovão ressoa alto e perto demais. Você fica abalado por 1 rodada e surdo por 1d4 rodadas."
+  },
+  {
+    "d": 56,
+    "efeito": "O que você está esperando? Sonhando acordado, você sofre -10 na ordem de iniciativa pelo resto do combate."
+  },
+  {
+    "d": 57,
+    "efeito": "Raiva aleatória: você entra em fúria, como um bárbaro de 1° nível. Se já estiver em fúria, ela acaba."
+  },
+  {
+    "d": 58,
+    "efeito": "Golpe nos olhos: se você sofrer um acerto crítico nesse combate, seus olhos se inundam de sangue, ou seus globos oculares saltam para fora das órbitas. Seja como for, você fica cego até receber pelo menos 20 pontos de cura mágica."
+  },
+  {
+    "d": 59,
+    "efeito": "Uma onda de energia positiva atinge o campo de batalha, mas só do lado dos inimigos... Todos os adversários recuperam 2d8+2 pontos de vida por patamar do grupo."
+  },
+  {
+    "d": 60,
+    "efeito": "Pontada no peito: -5 em Fortitude até o fim da cena."
+  },
+  {
+    "d": 61,
+    "efeito": "Uma mão esquelética surge do chão e puxa seu pé. Você fica agarrado até conseguir se soltar (exige gastar uma ação padrão e passar num teste de Luta contra CD 20)."
+  },
+  {
+    "d": 62,
+    "efeito": "Seu sangue esquenta e você se enfurece. Você sofre -2 em testes até acertar um ataque corpo a corpo em um inimigo."
+  },
+  {
+    "d": 63,
+    "efeito": "Ferimentos antigos incomodam... Seus PV máximos são reduzidos em um valor igual ao seu nível até o fim do dia."
+  },
+  {
+    "d": 64,
+    "efeito": "Hã? Borboletas voejantes capturam toda a sua atenção. Faça um teste de Sabedoria (CD 10). Se falhar, você fica fascinado até o fim do seu próximo turno. O quê?"
+  },
+  {
+    "d": 65,
+    "efeito": "O sol, uma magia ou uma tocha nas proximidades atrapalham sua visão: você sofre -5 em Reflexos até o fim da cena."
+  },
+  {
+    "d": 66,
+    "efeito": "Você bate com o mindinho em algo e é tomado por agonia! Ui! Não pode fazer ataques desarmados durante a próxima rodada e sofre -2 em testes baseados em Destreza até o fim da cena."
+  },
+  {
+    "d": 67,
+    "efeito": "Você engasga com poeira e fica fatigado até o fim do seu próximo turno."
+  },
+  {
+    "d": 68,
+    "efeito": "Você é tomado pela raiva da batalha e para de pensar direito. Você fica frustrado e, até o fim do seu próximo turno, não pode usar habilidades."
+  },
+  {
+    "d": 69,
+    "efeito": "Ataque cardíaco: argh! Dor no peito, falta de ar, braço esquerdo inutilizado por 1d6 rodadas. Faça um teste de Constituição (CD 10). Se passar, fica fatigado. Se falhar, morre."
+  },
+  {
+    "d": 70,
+    "efeito": "Compulsão autopreservativa: você fica indefeso até usar um item ou habilidade que recupere seus PV ou PM."
+  },
+  {
+    "d": 71,
+    "efeito": "Esse último golpe foi mais forte do que parecia! Você sofre de novo o dano do último ataque ou habilidade que o atingiu, mas como dano não letal."
+  },
+  {
+    "d": 72,
+    "efeito": "Um inseto entra na sua orelha bem no momento do golpe. Gaste uma ação de movimento para remover o incômodo ou sofra -2 em testes até ele ir embora, em 2d4 rodadas."
+  },
+  {
+    "d": 73,
+    "efeito": "Você termina o seu golpe com uma pose de grande efeito teatral, mas baixa qualidade combativa. Você fica desprevenido até o fim da sua próxima rodada."
+  },
+  {
+    "d": 74,
+    "efeito": "Sua granada ou preparado arremessado cai perto do seu alvo, mas não explode. O alvo faz um teste de Reflexos (CD 15) como uma reação. Se passar, ele chuta o item de volta para você. Você então se torna o novo alvo do item!"
+  },
+  {
+    "d": 75,
+    "efeito": "Sua bolsa de moedas voa longe e espalha todos os seus tibares pelo chão. Tomara que você vença o combate e não precise fugir."
+  },
+  {
+    "d": 76,
+    "efeito": "Ops! Faça um ataque imediato contra um aliado em seu alcance. Esse aliado está desprevenido contra esse ataque."
+  },
+  {
+    "d": 77,
+    "efeito": "Energia dissipada: se você usou seu ataque em conjunto com uma habilidade que custe PM, gaste o dobro de PM."
+  },
+  {
+    "d": 78,
+    "efeito": "Com os movimentos bruscos do combate, sua roupa se rasga ou uma fivela da sua armadura se abre. Perca um item vestido, decidido aleatoriamente. Após o combate, você pode gastar 1 hora para remendar o item."
+  },
+  {
+    "d": 79,
+    "efeito": "Um preparado que você esteja carregando explode em sua mão. Sofra o efeito do item (sem direito a teste de resistência)."
+  },
+  {
+    "d": 80,
+    "efeito": "Palavra amiga! Você gasta sua próxima ação padrão para fazer um teste de Diplomacia (CD 30). Se passar, um inimigo não vê motivos para atacá-lo."
+  },
+  {
+    "d": 81,
+    "efeito": "Uma de suas poções ou itens alquímicos à escolha do mestre se quebra. Sofra o efeito do item."
+  },
+  {
+    "d": 82,
+    "efeito": "Fogo amigo: você acerta um aliado que esteja lutando em corpo a corpo com o alvo original do seu ataque."
+  },
+  {
+    "d": 83,
+    "efeito": "Uma cobra morde seu pé. Você perde 1d12 PV por veneno."
+  },
+  {
+    "d": 84,
+    "efeito": "Bobagem suprema: você tropeça e cai de mau jeito, torcendo o tornozelo e correndo o risco de quebrar o pescoço! Faça um teste de Destreza (CD 10). Se passar, você fica lento. Se falhar, quebra o pescoço e morre."
+  },
+  {
+    "d": 85,
+    "efeito": "Tiro no pé — literalmente! Você causa o dano de um ataque à distância em si mesmo e fica lento por 1d4 rodadas."
+  },
+  {
+    "d": 86,
+    "efeito": "Você chuta uma pedra! Você fica lento até o fim da cena."
+  },
+  {
+    "d": 87,
+    "efeito": "Seu movimento com o ataque foi forte demais e sua arma voa longe. Ela cai a 9m de você, em uma direção aleatória."
+  },
+  {
+    "d": 88,
+    "efeito": "Pessimismo súbito: mesmo que o combate esteja indo bem, você se sente derrotado e inútil. Você fica alquebrado até o fim da cena."
+  },
+  {
+    "d": 89,
+    "efeito": "Você tem uma tontura súbita. Você fica enjoado e vulnerável por 1d4 rodadas."
+  },
+  {
+    "d": 90,
+    "efeito": "Sua mochila se abre e espalha todos os seus itens no chão."
+  },
+  {
+    "d": 91,
+    "efeito": "Você puxa demais a corda do seu arco ou besta! Ela se rompe, atingindo seu braço. Você sofre 1d6 pontos de dano de corte e a arma é destruída."
+  },
+  {
+    "d": 92,
+    "efeito": "A tocha ou lampião que você carrega subitamente se apaga."
+  },
+  {
+    "d": 93,
+    "efeito": "Cãibra no braço esquerdo: você deixa cair o que está segurando e não consegue usar o braço por 1d4 rodadas."
+  },
+  {
+    "d": 94,
+    "efeito": "Você se distrai e baixa sua guarda. -5 na Defesa por 1 rodada."
+  },
+  {
+    "d": 95,
+    "efeito": "Tentando atingir mais longe do que deveria, você distende o braço. -5 no próximo teste de ataque."
+  },
+  {
+    "d": 96,
+    "efeito": "Cãibra no braço direito: você deixa cair o que está segurando e não consegue usar o braço por 1d4 rodadas."
+  },
+  {
+    "d": 97,
+    "efeito": "Um meteoro cai em você! Você sofre 6d6 pontos de dano de impacto e 6d6 pontos de dano de fogo (Ref CD 25 reduz à metade)."
+  },
+  {
+    "d": 98,
+    "efeito": "Você tropeça em sua própria capa, calça ou saia: cai no chão e sofre 1d6 pontos de dano de impacto."
+  },
+  {
+    "d": 99,
+    "efeito": "Zupt! A lâmina de sua espada, cabeça de seu machado etc. solta-se e voa para longe. A arma é destruída."
+  },
+  {
+    "d": 100,
+    "efeito": "Visão divina: você vê uma aparição de seu deus. Você fica indefeso nessa rodada, mas recebe +5 em testes até o fim da cena."
+  }
+]

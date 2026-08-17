@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="icon" type="image/x-ico" href="pp.ico">
+
+    <style> 
+      .bg-fundo{
+        background-image: url('66.jpg');
+        background-size: cover;
+        background-position: center;
+        min-height: 100vh;
+      }
+    </style>
+
+    <style>
+      .pergaminho{
+        background:
+          radial-gradient(circle at top, rgba(255,255,255,0.4), transparent),
+          #f1e2b8;
+
+        border: 4px solid #b89b5e;
+        border-radius: 10px;
+
+        padding: 30px;
+        max-width: 520px;
+        margin: auto;
+
+        font-family: "Georgia", serif;
+        color: #3a2c15;
+
+        box-shadow:
+          inset 0 0 30px rgba(0,0,0,0.2),
+          0 10px 25px rgba(0,0,0,0.35);
+      }
+  </style>
+
+  <style>
+    .botao-tesouro {
+    background-color: rgba(232, 203, 41, 0.819);
+    color:#000000;
+    border-radius:5px;
+    }
+  </style>
+
+    <title>Role Iniciativa!</title>
+  </head>
+
+  <body class="bg-light">
+    <div class="bg-fundo d-flex align-items-center justify-content-center">
+      <div class="col-md-6">
+        <div class="pergaminho">
+
+            <div class="d-flex justify-content-between align-items-center mb-4">
+              <h3 class="card-title mb-0">
+                Role Iniciativa!
+              </h3>
+              <button class="btn" id="btnLimpar" onclick="limparInputs()">
+                🧹
+              </button>
+            </div>
+
+            <!-- Nome -->
+            <div class="mb-3">
+              <label class="form-label">🤺Nome</label>
+              <input type="text" id="nome" class="form-control">
+            </div>
+
+            <!-- Iniciativa -->
+            <div class="mb-3">
+              <label class="form-label">🎲Iniciativa</label>
+              <input type="text" inputmode="numeric" pattern="[0-9]" id="iniciativa" class="form-control">
+            </div>
+
+            <!-- Vida -->
+            <div class="mb-3">
+              <label class="form-label">➕PVs</label>
+              <input type="text" inputmode="numeric" id="PV" class="form-control">
+            </div>
+
+            <!-- Passar turno/Adicionar -->
+            <div class="d-grid">
+              <button class="botao-tesouro p-3" onclick="passarTurno()">
+                Passar Turno
+              </button>
+            </div>
+
+            <!-- Ordem -->
+            <div class="d-flex justify-content-between align-items-center mb-2">
+              <h5 class="mb-0">Ordem de Iniciativa</h5>
+              <span class="h5 mb-0" id="nTurnos"></span>
+            </div>
+            <div id="ordem" class="alert alert-secondary p-2 mt-0">
+                Nenhuma ordem ainda
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+
+      <div class="col-md-6">
+        <div class="card shadow">
+            <div class="card-body">
+                <h3 class="card-title text-center mb-4">
+                    PV Tracker
+                </h3>
+                
+                <!-- Container para os cards dos inimigos -->
+                <div id="container-inimigos" class="row">
+                    <!-- Os cards serão inseridos aqui dinamicamente -->
+                </div>
+                
+            </div>
+        </div>
+      </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="scriptIniciativa.js"></script>
+
+  </body>
+</html>

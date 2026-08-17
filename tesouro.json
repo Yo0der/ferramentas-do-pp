@@ -1,0 +1,871 @@
+{
+  "tesouro_por_nd": {
+    "1/4": {
+      "dinheiro": [
+        {
+          "range": "01-30",
+          "resultado": ""
+        },
+        {
+          "range": "31-70",
+          "resultado": "1d6x1"
+        },
+        {
+          "range": "71-95",
+          "resultado": "1d4x10"
+        },
+        {
+          "range": "96-100",
+          "resultado": "1d6x10"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-50",
+          "resultado": ""
+        },
+        {
+          "range": "51-75",
+          "resultado": "Diverso"
+        },
+        {
+          "range": "76-100",
+          "resultado": "Equipamento"
+        }
+      ]
+    },
+    "1/2": {
+      "dinheiro": [
+        {
+          "range": "01-25",
+          "resultado": ""
+        },
+        {
+          "range": "26-70",
+          "resultado": "2d6x10"
+        },
+        {
+          "range": "71-95",
+          "resultado": "2d8x10"
+        },
+        {
+          "range": "96-100",
+          "resultado": "1d4x100"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-45",
+          "resultado": ""
+        },
+        {
+          "range": "46-70",
+          "resultado": "Diverso"
+        },
+        {
+          "range": "71-100",
+          "resultado": "Equipamento"
+        }
+      ]
+    },
+    "1": {
+      "dinheiro": [
+        {
+          "range": "01-20",
+          "resultado": ""
+        },
+        {
+          "range": "21-70",
+          "resultado": "3d8x10"
+        },
+        {
+          "range": "71-95",
+          "resultado": "4d12x10"
+        },
+        {
+          "range": "96-100",
+          "resultado": "1 riqueza menor"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-40",
+          "resultado": ""
+        },
+        {
+          "range": "41-65",
+          "resultado": "Diverso"
+        },
+        {
+          "range": "66-90",
+          "resultado": "Equipamento"
+        },
+        {
+          "range": "91-100",
+          "resultado": "1 poção"
+        }
+      ]
+    },
+    "2": {
+      "dinheiro": [
+        {
+          "range": "01-15",
+          "resultado": ""
+        },
+        {
+          "range": "16-55",
+          "resultado": "3d10x10"
+        },
+        {
+          "range": "56-85",
+          "resultado": "2d4x100"
+        },
+        {
+          "range": "86-95",
+          "resultado": "2d6+1x100"
+        },
+        {
+          "range": "96-100",
+          "resultado": "1 riqueza menor"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-30",
+          "resultado": ""
+        },
+        {
+          "range": "31-40",
+          "resultado": "Diverso"
+        },
+        {
+          "range": "41-70",
+          "resultado": "Equipamento"
+        },
+        {
+          "range": "71-90",
+          "resultado": "1 poção"
+        },
+        {
+          "range": "91-100",
+          "resultado": "Superior (1 melhoria)"
+        }
+      ]
+    },
+    "3": {
+      "dinheiro": [
+        {
+          "range": "01-10",
+          "resultado": ""
+        },
+        {
+          "range": "11-20",
+          "resultado": "4d12x10"
+        },
+        {
+          "range": "21-60",
+          "resultado": "1d4x100"
+        },
+        {
+          "range": "61-90",
+          "resultado": "1d8x100"
+        },
+        {
+          "range": "91-100",
+          "resultado": "1d3 riquezas menores"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-25",
+          "resultado": ""
+        },
+        {
+          "range": "26-35",
+          "resultado": "Diverso"
+        },
+        {
+          "range": "36-60",
+          "resultado": "Equipamento"
+        },
+        {
+          "range": "61-85",
+          "resultado": "1 poção"
+        },
+        {
+          "range": "86-100",
+          "resultado": "Superior (1 melhoria)"
+        }
+      ]
+    },
+    "4": {
+      "dinheiro": [
+        {
+          "range": "01-10",
+          "resultado": ""
+        },
+        {
+          "range": "11-50",
+          "resultado": "1d6x100"
+        },
+        {
+          "range": "51-80",
+          "resultado": "1d12x100"
+        },
+        {
+          "range": "81-90",
+          "resultado": "1 riqueza menor",
+          "bonus": true
+        },
+        {
+          "range": "91-100",
+          "resultado": "1d3 riquezas menores",
+          "bonus": true
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-20",
+          "resultado": ""
+        },
+        {
+          "range": "21-30",
+          "resultado": "Diverso"
+        },
+        {
+          "range": "31-55",
+          "resultado": "Equipamento"
+        },
+        {
+          "range": "56-80",
+          "resultado": "1 poção",
+          "bonus": true
+        },
+        {
+          "range": "81-100",
+          "resultado": "Superior (1 melhoria)"
+        }
+      ]
+    },
+    "5": {
+      "dinheiro": [
+        {
+          "range": "01-15",
+          "resultado": ""
+        },
+        {
+          "range": "16-65",
+          "resultado": "1d8x100"
+        },
+        {
+          "range": "66-95",
+          "resultado": "3d4x100"
+        },
+        {
+          "range": "96-100",
+          "resultado": "1 riqueza média"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-20",
+          "resultado": ""
+        },
+        {
+          "range": "21-70",
+          "resultado": "1 poção"
+        },
+        {
+          "range": "71-90",
+          "resultado": "Superior (1 melhoria)"
+        },
+        {
+          "range": "91-100",
+          "resultado": "Superior (2 melhorias)"
+        }
+      ]
+    },
+    "6": {
+      "dinheiro": [
+        {
+          "range": "01-15",
+          "resultado": ""
+        },
+        {
+          "range": "16-60",
+          "resultado": "2d6x100"
+        },
+        {
+          "range": "61-90",
+          "resultado": "2d10x100"
+        },
+        {
+          "range": "91-100",
+          "resultado": "1d3+1 riquezas menores"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-20",
+          "resultado": ""
+        },
+        {
+          "range": "21-65",
+          "resultado": "1 poção",
+          "bonus": true
+        },
+        {
+          "range": "66-95",
+          "resultado": "Superior (1 melhoria)"
+        },
+        {
+          "range": "96-100",
+          "resultado": "Superior (2 melhorias)"
+        }
+      ]
+    },
+    "7": {
+      "dinheiro": [
+        {
+          "range": "01-10",
+          "resultado": ""
+        },
+        {
+          "range": "11-60",
+          "resultado": "2d8x100"
+        },
+        {
+          "range": "61-90",
+          "resultado": "2d12x100"
+        },
+        {
+          "range": "91-100",
+          "resultado": "1d4+1 riquezas menores"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-20",
+          "resultado": ""
+        },
+        {
+          "range": "21-60",
+          "resultado": "1d3 poções"
+        },
+        {
+          "range": "61-90",
+          "resultado": "Superior (2 melhorias)"
+        },
+        {
+          "range": "91-100",
+          "resultado": "Superior (3 melhorias)"
+        }
+      ]
+    },
+    "8": {
+      "dinheiro": [
+        {
+          "range": "01-10",
+          "resultado": ""
+        },
+        {
+          "range": "11-55",
+          "resultado": "2d10x100"
+        },
+        {
+          "range": "56-95",
+          "resultado": "1d4+1 riquezas menores"
+        },
+        {
+          "range": "96-100",
+          "resultado": "1 riqueza média",
+          "bonus": true
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-20",
+          "resultado": ""
+        },
+        {
+          "range": "21-75",
+          "resultado": "1d3 poções"
+        },
+        {
+          "range": "76-95",
+          "resultado": "Superior (2 melhorias)"
+        },
+        {
+          "range": "96-100",
+          "resultado": "Superior (3 melhorias)"
+        }
+      ]
+    },
+    "9": {
+      "dinheiro": [
+        {
+          "range": "01-10",
+          "resultado": ""
+        },
+        {
+          "range": "11-35",
+          "resultado": "1 riqueza média"
+        },
+        {
+          "range": "36-85",
+          "resultado": "4d6x100"
+        },
+        {
+          "range": "86-100",
+          "resultado": "1d3 riquezas médias"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-20",
+          "resultado": ""
+        },
+        {
+          "range": "21-70",
+          "resultado": "1 poção",
+          "bonus": true
+        },
+        {
+          "range": "71-95",
+          "resultado": "Superior (3 melhorias)"
+        },
+        {
+          "range": "96-100",
+          "resultado": "Mágico (menor)"
+        }
+      ]
+    },
+    "10": {
+      "dinheiro": [
+        {
+          "range": "01-10",
+          "resultado": ""
+        },
+        {
+          "range": "11-30",
+          "resultado": "4d6x100"
+        },
+        {
+          "range": "31-85",
+          "resultado": "4d10x100"
+        },
+        {
+          "range": "86-100",
+          "resultado": "1d3+1 riquezas médias"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-50",
+          "resultado": ""
+        },
+        {
+          "range": "51-75",
+          "resultado": "1d3+1 poções"
+        },
+        {
+          "range": "76-90",
+          "resultado": "Superior (3 melhorias)"
+        },
+        {
+          "range": "91-100",
+          "resultado": "Mágico (menor)"
+        }
+      ]
+    },
+    "11": {
+      "dinheiro": [
+        {
+          "range": "01-10",
+          "resultado": ""
+        },
+        {
+          "range": "11-45",
+          "resultado": "2d4x1000"
+        },
+        {
+          "range": "46-85",
+          "resultado": "1d3 riquezas médias"
+        },
+        {
+          "range": "86-100",
+          "resultado": "2d6x1000"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-45",
+          "resultado": ""
+        },
+        {
+          "range": "46-70",
+          "resultado": "1d4+1 poções"
+        },
+        {
+          "range": "71-90",
+          "resultado": "Superior (3 melhorias)"
+        },
+        {
+          "range": "91-100",
+          "resultado": "Mágico (menor)"
+        }
+      ]
+    },
+    "12": {
+      "dinheiro": [
+        {
+          "range": "01-10",
+          "resultado": ""
+        },
+        {
+          "range": "11-45",
+          "resultado": "1 riqueza média",
+          "bonus": true
+        },
+        {
+          "range": "46-80",
+          "resultado": "2d6x1000"
+        },
+        {
+          "range": "81-100",
+          "resultado": "1d4+1 riquezas médias"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-45",
+          "resultado": ""
+        },
+        {
+          "range": "46-70",
+          "resultado": "1d3+1 poções",
+          "bonus": true
+        },
+        {
+          "range": "71-85",
+          "resultado": "Superior (4 melhorias)"
+        },
+        {
+          "range": "86-100",
+          "resultado": "Mágico (menor)"
+        }
+      ]
+    },
+    "13": {
+      "dinheiro": [
+        {
+          "range": "01-10",
+          "resultado": ""
+        },
+        {
+          "range": "11-45",
+          "resultado": "4d4x1000"
+        },
+        {
+          "range": "46-80",
+          "resultado": "1d3+1 riquezas médias"
+        },
+        {
+          "range": "81-100",
+          "resultado": "4d6x1000"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-40",
+          "resultado": ""
+        },
+        {
+          "range": "41-65",
+          "resultado": "1d4+1 poções",
+          "bonus": true
+        },
+        {
+          "range": "66-95",
+          "resultado": "Superior (4 melhorias)"
+        },
+        {
+          "range": "96-100",
+          "resultado": "Mágico (médio)"
+        }
+      ]
+    },
+    "14": {
+      "dinheiro": [
+        {
+          "range": "01-10",
+          "resultado": ""
+        },
+        {
+          "range": "11-45",
+          "resultado": "1d3+1 riquezas médias",
+          "bonus": true
+        },
+        {
+          "range": "46-80",
+          "resultado": "3d6x1000"
+        },
+        {
+          "range": "81-100",
+          "resultado": "1 riqueza maior"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-40",
+          "resultado": ""
+        },
+        {
+          "range": "41-65",
+          "resultado": "1d4+1 poções"
+        },
+        {
+          "range": "66-90",
+          "resultado": "Superior (4 melhorias)"
+        },
+        {
+          "range": "91-100",
+          "resultado": "Mágico (médio)"
+        }
+      ]
+    },
+    "15": {
+      "dinheiro": [
+        {
+          "range": "01-10",
+          "resultado": ""
+        },
+        {
+          "range": "11-45",
+          "resultado": "1 riqueza média",
+          "bonus": true
+        },
+        {
+          "range": "46-80",
+          "resultado": "2d10x1000"
+        },
+        {
+          "range": "81-100",
+          "resultado": "1d4x10000"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-35",
+          "resultado": ""
+        },
+        {
+          "range": "36-45",
+          "resultado": "1d6+1 poções"
+        },
+        {
+          "range": "46-85",
+          "resultado": "Superior (4 melhorias)"
+        },
+        {
+          "range": "86-100",
+          "resultado": "Mágico (médio)"
+        }
+      ]
+    },
+    "16": {
+      "dinheiro": [
+        {
+          "range": "01-10",
+          "resultado": ""
+        },
+        {
+          "range": "11-40",
+          "resultado": "3d6x1000"
+        },
+        {
+          "range": "41-75",
+          "resultado": "3d10x1000"
+        },
+        {
+          "range": "76-100",
+          "resultado": "1d3 riquezas maiores"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-35",
+          "resultado": ""
+        },
+        {
+          "range": "36-45",
+          "resultado": "1d6+1 poções",
+          "bonus": true
+        },
+        {
+          "range": "46-80",
+          "resultado": "Superior (4 melhorias)"
+        },
+        {
+          "range": "81-100",
+          "resultado": "Mágico (médio)"
+        }
+      ]
+    },
+    "17": {
+      "dinheiro": [
+        {
+          "range": "01-05",
+          "resultado": ""
+        },
+        {
+          "range": "06-40",
+          "resultado": "4d6x1000"
+        },
+        {
+          "range": "41-75",
+          "resultado": "1d3 riquezas médias",
+          "bonus": true
+        },
+        {
+          "range": "76-100",
+          "resultado": "2d4x10000"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-20",
+          "resultado": ""
+        },
+        {
+          "range": "21-40",
+          "resultado": "Mágico (menor)"
+        },
+        {
+          "range": "41-80",
+          "resultado": "Mágico (médio)"
+        },
+        {
+          "range": "81-100",
+          "resultado": "Mágico (maior)"
+        }
+      ]
+    },
+    "18": {
+      "dinheiro": [
+        {
+          "range": "01-05",
+          "resultado": ""
+        },
+        {
+          "range": "06-40",
+          "resultado": "4d10x1000"
+        },
+        {
+          "range": "41-75",
+          "resultado": "1 riqueza maior"
+        },
+        {
+          "range": "76-100",
+          "resultado": "1d3+1 riquezas maiores"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-15",
+          "resultado": ""
+        },
+        {
+          "range": "16-40",
+          "resultado": "Mágico (menor)"
+        },
+        {
+          "range": "41-70",
+          "resultado": "Mágico (médio)"
+        },
+        {
+          "range": "71-100",
+          "resultado": "Mágico (maior)"
+        }
+      ]
+    },
+    "19": {
+      "dinheiro": [
+        {
+          "range": "01-05",
+          "resultado": ""
+        },
+        {
+          "range": "06-40",
+          "resultado": "4d12x1000"
+        },
+        {
+          "range": "41-75",
+          "resultado": "1 riqueza maior",
+          "bonus": true
+        },
+        {
+          "range": "76-100",
+          "resultado": "1d12x10000"
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-10",
+          "resultado": ""
+        },
+        {
+          "range": "11-40",
+          "resultado": "Mágico (menor)"
+        },
+        {
+          "range": "41-60",
+          "resultado": "Mágico (médio)"
+        },
+        {
+          "range": "61-100",
+          "resultado": "Mágico (maior)"
+        }
+      ]
+    },
+    "20": {
+      "dinheiro": [
+        {
+          "range": "01-05",
+          "resultado": ""
+        },
+        {
+          "range": "06-40",
+          "resultado": "2d4x10000"
+        },
+        {
+          "range": "41-75",
+          "resultado": "1d3 riquezas maiores"
+        },
+        {
+          "range": "76-100",
+          "resultado": "1d3+1 riquezas maiores",
+          "bonus": true
+        }
+      ],
+      "itens": [
+        {
+          "range": "01-05",
+          "resultado": ""
+        },
+        {
+          "range": "06-40",
+          "resultado": "Mágico (menor)"
+        },
+        {
+          "range": "41-50",
+          "resultado": "Mágico (médio)"
+        },
+        {
+          "range": "51-100",
+          "resultado": "Mágico (maior)"
+        }
+      ]
+    }
+  }
+}

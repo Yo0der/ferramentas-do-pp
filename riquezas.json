@@ -1,0 +1,142 @@
+{
+  "riquezas": {
+    "menor": [
+      {
+        "range": "01-25",
+        "valor": "4d4x1",
+        "item": "Ágata ou hematita (1/2); barril de farinha ou gaiola com galinhas (5)"
+      },
+      {
+        "range": "26-40",
+        "valor": "1d4x10",
+        "item": "Quartzo rosa ou topázio (1/2); caixa de tabaco ou rolo de linho (1); jarro de especiarias, como canela, gorad, pimenta ou sal (2)"
+      },
+      {
+        "range": "41-55",
+        "valor": "2d4x10",
+        "item": "Bracelete de ouro finamente trabalhado (1/2); estatueta de osso ou marfim entalhado ou rolo de seda (1); vaso de prata (2)"
+      },
+      {
+        "range": "56-70",
+        "valor": "4d6x10",
+        "item": "Ametista ou pérola branca (1/2); lingote de prata ou cálice de prata com gemas de lápis-lazúli (1); tapeçaria grande e bem-feita de lã (5)"
+      },
+      {
+        "range": "71-85",
+        "valor": "1d6x100",
+        "item": "Alexandrita ou pérola negra (1/2); espada cerimonial ornada com prata e gema negra no cabo ou pente de prata com pedras preciosas (1)"
+      },
+      {
+        "range": "86-95",
+        "valor": "2d6x100",
+        "item": "Pente em forma de dragão com olhos de gema vermelha (1); harpa de madeira exótica com ornamentos de zircão e marfim (5)"
+      },
+      {
+        "range": "96-99",
+        "valor": "2d8x100",
+        "item": "Opala negra ou tapa-olho com um olho falso de safira (1/2); luva bordada e adornada com gemas ou pingente de opala vermelha com corrente de ouro (1); lingote de ouro ou pintura antiga (2)"
+      },
+      {
+        "range": "100",
+        "valor": "4d10x100",
+        "item": "Esmeralda verde ou pingente de safira (1/2); caixinha de música de ouro ou tornozeleira com gemas (1); manto bordado em veludo e seda com inúmeras pedras preciosas (2)"
+      }
+    ],
+
+    "media": [
+      {
+        "range": "01-10",
+        "valor": "2d4x10",
+        "item": "Bracelete de ouro finamente trabalhado (1/2); estatueta de osso ou marfim entalhado ou rolo de seda (1); vaso de prata (2)"
+      },
+      {
+        "range": "11-30",
+        "valor": "4d6x10",
+        "item": "Ametista ou pérola branca (1/2); lingote de prata ou cálice de prata com gemas de lápis-lazúli (1); tapeçaria grande e bem-feita de lã (5)"
+      },
+      {
+        "range": "31-50",
+        "valor": "1d6x100",
+        "item": "Alexandrita ou pérola negra (1/2); espada cerimonial ornada com prata e gema negra no cabo ou pente de prata com pedras preciosas (1)"
+      },
+      {
+        "range": "51-65",
+        "valor": "2d6x100",
+        "item": "Pente em forma de dragão com olhos de gema vermelha (1); harpa de madeira exótica com ornamentos de zircão e marfim (5)"
+      },
+      {
+        "range": "66-80",
+        "valor": "2d8x100",
+        "item": "Opala negra ou tapa-olho com um olho falso de safira (1/2); luva bordada e adornada com gemas ou pingente de opala vermelha com corrente de ouro (1); lingote de ouro ou pintura antiga (2)"
+      },
+      {
+        "range": "81-90",
+        "valor": "4d10x100",
+        "item": "Esmeralda verde ou pingente de safira (1/2); caixinha de música de ouro ou tornozeleira com gemas (1); manto bordado em veludo e seda com inúmeras pedras preciosas (2)"
+      },
+      {
+        "range": "91-95",
+        "valor": "6d12x100",
+        "item": "Anel de prata e safira ou correntinha com pequenas pérolas rosas, diamante branco (1/2); ídolo de ouro puro maciço (5)"
+      },
+      {
+        "range": "96-99",
+        "valor": "2d10x1000",
+        "item": "Anel de ouro e rubi ou diamante vermelho (1/2); conjunto de taças de ouro decoradas com esmeraldas (2)"
+      },
+      {
+        "range": "100",
+        "valor": "6d8x1000",
+        "item": "Coroa de ouro adornada com centenas de gemas, pertencente a um antigo monarca (1); baú de mitral com coleção de diamantes (2)"
+      }
+    ],
+
+    "maior": [
+      {
+        "range": "01-05",
+        "valor": "1d6x100",
+        "item": "Alexandrita ou pérola negra (1/2); espada cerimonial ornada com prata e gema negra no cabo ou pente de prata com pedras preciosas (1)"
+      },
+      {
+        "range": "06-15",
+        "valor": "2d6x100",
+        "item": "Pente em forma de dragão com olhos de gema vermelha (1); harpa de madeira exótica com ornamentos de zircão e marfim (5)"
+      },
+      {
+        "range": "16-25",
+        "valor": "2d8x100",
+        "item": "Opala negra ou tapa-olho com um olho falso de safira (1/2); luva bordada e adornada com gemas ou pingente de opala vermelha com corrente de ouro (1); lingote de ouro ou pintura antiga (2)"
+      },
+      {
+        "range": "26-40",
+        "valor": "4d10x100",
+        "item": "Esmeralda verde ou pingente de safira (1/2); caixinha de música de ouro ou tornozeleira com gemas (1); manto bordado em veludo e seda com inúmeras pedras preciosas (2)"
+      },
+      {
+        "range": "41-60",
+        "valor": "6d12x100",
+        "item": "Anel de prata e safira ou correntinha com pequenas pérolas rosas, diamante branco (1/2); ídolo de ouro puro maciço (5)"
+      },
+      {
+        "range": "61-75",
+        "valor": "2d10x1000",
+        "item": "Anel de ouro e rubi ou diamante vermelho (1/2); conjunto de taças de ouro decoradas com esmeraldas (2)"
+      },
+      {
+        "range": "76-85",
+        "valor": "6d8x1000",
+        "item": "Coroa de ouro adornada com centenas de gemas, pertencente a um antigo monarca (1); baú de mitral com coleção de diamantes (2)"
+      },
+      {
+        "range": "86-95",
+        "valor": "1d10x10000",
+        "item": "Arca de madeira reforçada repleta de lingotes de prata e ouro, além de pedras preciosas de vários tipos (20)"
+      },
+      {
+        "range": "96-100",
+        "valor": "4d12x10000",
+        "item": "Uma sala forrada de moedas! Mover todo esse dinheiro exige trabalhadores e carroças (ou outra ideia por parte dos jogadores), além de atrair a atenção de bandidos, coletores de impostos e aproveitadores de vários tipos"
+      }
+    ]
+  }
+}
