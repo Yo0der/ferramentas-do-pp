@@ -13,7 +13,7 @@ function contaTurno(){
     nTurnos++;
     const container = document.getElementById("nTurnos");
     container.innerHTML = "";
-    container.innerHTML = `Truno#${nTurnos}`;
+    container.innerHTML = `Turno#${nTurnos}`;
 }
 
 function ordenarCombatentes(){
@@ -83,12 +83,14 @@ function renderizarCardsInimigos_popularOrdemIniciativa() {
                             
                         <!-- Input para dano/cura -->
                         <div class="input-group mb-2">
-                            <input type="number" 
+                            <input type="text"
+                                inputmode="decimal"
                                 id="dano-${index}" 
                                 class="form-control form-control-sm" 
                                 placeholder="Dano/Cura"
-                                onKeydown = "detectaEnter(event, ${index})"
-                            </input>
+                                enterkeyhint="done"
+                                onkeydown = "detectaEnter(event, ${index})"
+                                onblur="detectaEnter(event, ${index})">
                         </div>
                     </div>
                 </div>
@@ -99,14 +101,15 @@ function renderizarCardsInimigos_popularOrdemIniciativa() {
 }
 
 function detectaEnter(e,index){
-    const dano = document.getElementById(`dano-${index}`).value;
-    if (e.key === "Enter" && dano) {
+    let dano = document.getElementById(`dano-${index}`).value;
+    if (dano.includes(".")){dano = dano.replace(".","-")}
+    if ((e.key === 'Enter' || e.type === 'blur') && dano) {
         e.preventDefault();
         // Cancel the default action, if needed
         console.log("Enter detectado");
         inimigos[index].vida = parseInt(inimigos[index].vida) + parseInt(dano);
         console.log(inimigos[index].vida)
-        dano.value = "";
+        document.getElementById(`dano-${index}`).value = "";
         renderizarCardsInimigos_popularOrdemIniciativa();
         document.getElementById("ordem").innerText = "⭐" + ordemIniciativa;
     }
